@@ -11,3 +11,16 @@ F:\C#\ORMSCompireSample\Service.EF4\obj\Debug\Service.EF4.dll
 F:\C#\ORMSCompireSample\Service.EF4\obj\Debug\Service.EF4.pdb
 F:\C#\ORMSCompireSample\Service.EF4\bin\Debug\ORM.Sample.Common.dll
 F:\C#\ORMSCompireSample\Service.EF4\bin\Debug\ORM.Sample.Common.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\Service.EF4.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\Service.EF4.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\Domain.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\Infrastructure.EF4.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\ORM.Sample.Common.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\EntityFramework.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\Domain.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\Infrastructure.EF4.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\ORM.Sample.Common.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\bin\Debug\EntityFramework.xml
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\obj\Debug\ResolveAssemblyReference.cache
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\obj\Debug\Service.EF4.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.EF4\obj\Debug\Service.EF4.pdb
