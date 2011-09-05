@@ -10,3 +10,15 @@ F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\ORM.Sample.Common.pdb
 F:\C#\ORMSCompireSample\Service.SD1\obj\Debug\ResolveAssemblyReference.cache
 F:\C#\ORMSCompireSample\Service.SD1\obj\Debug\Service.SD1.dll
 F:\C#\ORMSCompireSample\Service.SD1\obj\Debug\Service.SD1.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\bin\Debug\Service.SD1.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\bin\Debug\Service.SD1.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\bin\Debug\Domain.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\bin\Debug\Infrastructure.SimpleData.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\bin\Debug\ORM.Sample.Common.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\bin\Debug\Simple.Data.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\bin\Debug\Domain.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\bin\Debug\Infrastructure.SimpleData.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\bin\Debug\ORM.Sample.Common.pdb
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\obj\Debug\ResolveAssemblyReference.cache
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\obj\Debug\Service.SD1.dll
+D:\multi-orm-samples\ORMSCompireSample\Service.SD1\obj\Debug\Service.SD1.pdb
