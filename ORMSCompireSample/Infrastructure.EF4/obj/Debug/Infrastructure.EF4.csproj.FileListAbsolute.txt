@@ -9,3 +9,14 @@ F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Domain.dll
 F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Domain.pdb
 F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\ORM.Sample.Common.dll
 F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\ORM.Sample.Common.pdb
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Infrastructure.EF4.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Infrastructure.EF4.pdb
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Domain.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\bin\Debug\EntityFramework.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\bin\Debug\ORM.Sample.Common.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Domain.pdb
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\bin\Debug\ORM.Sample.Common.pdb
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\bin\Debug\EntityFramework.xml
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\obj\Debug\ResolveAssemblyReference.cache
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\obj\Debug\Infrastructure.EF4.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.EF4\obj\Debug\Infrastructure.EF4.pdb
