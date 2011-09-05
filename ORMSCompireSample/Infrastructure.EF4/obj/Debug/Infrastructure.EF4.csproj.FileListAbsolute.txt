@@ -1,0 +1,11 @@
+F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Infrastructure.EF4.dll
+F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Infrastructure.EF4.pdb
+F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\EntityFramework.dll
+F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\EntityFramework.xml
+F:\C#\ORMSCompireSample\Infrastructure.EF4\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\ORMSCompireSample\Infrastructure.EF4\obj\Debug\Infrastructure.EF4.dll
+F:\C#\ORMSCompireSample\Infrastructure.EF4\obj\Debug\Infrastructure.EF4.pdb
+F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Domain.dll
+F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\Domain.pdb
+F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\ORM.Sample.Common.dll
+F:\C#\ORMSCompireSample\Infrastructure.EF4\bin\Debug\ORM.Sample.Common.pdb

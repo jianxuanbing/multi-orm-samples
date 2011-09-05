@@ -1,0 +1,17 @@
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\Service.NH3.dll
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\Service.NH3.pdb
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\Domain.dll
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\Infrastructure.NHibernate.dll
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\ORM.Sample.Common.dll
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\NHibernate.dll
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\FluentNHibernate.dll
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\NHibernate.Linq.dll
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\Iesi.Collections.dll
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\Domain.pdb
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\Infrastructure.NHibernate.pdb
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\ORM.Sample.Common.pdb
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\FluentNHibernate.pdb
+F:\C#\ORMSCompireSample\Service.NH3\bin\Debug\Iesi.Collections.xml
+F:\C#\ORMSCompireSample\Service.NH3\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\ORMSCompireSample\Service.NH3\obj\Debug\Service.NH3.dll
+F:\C#\ORMSCompireSample\Service.NH3\obj\Debug\Service.NH3.pdb
