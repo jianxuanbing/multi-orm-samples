@@ -3,3 +3,8 @@ F:\C#\ORMSCompireSample\Domain\bin\Debug\Domain.pdb
 F:\C#\ORMSCompireSample\Domain\obj\Debug\ResolveAssemblyReference.cache
 F:\C#\ORMSCompireSample\Domain\obj\Debug\Domain.dll
 F:\C#\ORMSCompireSample\Domain\obj\Debug\Domain.pdb
+D:\multi-orm-samples\ORMSCompireSample\Domain\bin\Debug\Domain.dll
+D:\multi-orm-samples\ORMSCompireSample\Domain\bin\Debug\Domain.pdb
+D:\multi-orm-samples\ORMSCompireSample\Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\multi-orm-samples\ORMSCompireSample\Domain\obj\Debug\Domain.dll
+D:\multi-orm-samples\ORMSCompireSample\Domain\obj\Debug\Domain.pdb
