@@ -10,3 +10,15 @@ F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Simple.Data.dll
 F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Simple.Data.SqlServer.dll
 F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Domain.pdb
 F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\ORM.Sample.Common.pdb
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Infrastructure.SimpleData.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Infrastructure.SimpleData.pdb
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Domain.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\ORM.Sample.Common.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Simple.Data.Ado.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Simple.Data.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Simple.Data.SqlServer.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Domain.pdb
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\ORM.Sample.Common.pdb
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\obj\Debug\ResolveAssemblyReference.cache
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\obj\Debug\Infrastructure.SimpleData.dll
+D:\multi-orm-samples\ORMSCompireSample\Infrastructure.SimpleData\obj\Debug\Infrastructure.SimpleData.pdb
