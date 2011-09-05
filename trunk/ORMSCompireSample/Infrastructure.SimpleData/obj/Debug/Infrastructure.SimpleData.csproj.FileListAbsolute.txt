@@ -1,0 +1,12 @@
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Infrastructure.SimpleData.dll
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Infrastructure.SimpleData.pdb
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\obj\Debug\Infrastructure.SimpleData.dll
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\obj\Debug\Infrastructure.SimpleData.pdb
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Domain.dll
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\ORM.Sample.Common.dll
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Simple.Data.Ado.dll
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Simple.Data.dll
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Simple.Data.SqlServer.dll
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\Domain.pdb
+F:\C#\ORMSCompireSample\Infrastructure.SimpleData\bin\Debug\ORM.Sample.Common.pdb

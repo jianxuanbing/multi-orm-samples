@@ -1,0 +1,12 @@
+F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\Service.SD1.dll
+F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\Service.SD1.pdb
+F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\Domain.dll
+F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\Infrastructure.SimpleData.dll
+F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\ORM.Sample.Common.dll
+F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\Simple.Data.dll
+F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\Domain.pdb
+F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\Infrastructure.SimpleData.pdb
+F:\C#\ORMSCompireSample\Service.SD1\bin\Debug\ORM.Sample.Common.pdb
+F:\C#\ORMSCompireSample\Service.SD1\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\ORMSCompireSample\Service.SD1\obj\Debug\Service.SD1.dll
+F:\C#\ORMSCompireSample\Service.SD1\obj\Debug\Service.SD1.pdb

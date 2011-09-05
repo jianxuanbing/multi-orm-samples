@@ -1,0 +1,5 @@
+F:\C#\ORMSCompireSample\ORM.Sample.Common\bin\Debug\ORM.Sample.Common.dll
+F:\C#\ORMSCompireSample\ORM.Sample.Common\bin\Debug\ORM.Sample.Common.pdb
+F:\C#\ORMSCompireSample\ORM.Sample.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\ORMSCompireSample\ORM.Sample.Common\obj\Debug\ORM.Sample.Common.dll
+F:\C#\ORMSCompireSample\ORM.Sample.Common\obj\Debug\ORM.Sample.Common.pdb
